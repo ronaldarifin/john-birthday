@@ -6,7 +6,7 @@ import mkPicture from './picture/mk.jpeg';
 import nicolePicture from './picture/johnpic1.jpeg';
 import tiffanyPicture from './picture/johnpic2.webp';
 import yeriPicture from './picture/johnpic3.jpg';
-import peterPicture from './picture/johnpic4.jpg';
+import peterPicture from './picture/peter.jpg';
 import brendanPicture from './picture/johnpic5.jpg';
 
 
@@ -16,7 +16,7 @@ function App() {
   const nicoleMessage = "happy birthday johnny! super grateful to have known you over the past year and i’m very sure you’re gonna do well moving forward~ God bless Johnny "
   const tiffanyMessage = "Happy birth Johnnnyyy!!! 🥳🥳Wishing you the very very best new year filled with so much love and abundance!!! May God continue to bless works of your hands and your journey this new year 😊"
   const Yerimessage = "Happy birthday John! Have an amazing journey with your new job. Always be blessing!"
-  const peterMessage = "Happy birthday John! Hope you have a great day and a great year ahead! "
+  const peterMessage = "Messagenya: Happy birthday John, wishing u all the best for your career and ministry. Gbu always!!"
   const brendanMessage = "happy birthday john! God bless and wish you all the best! Hope you have a great time working in sf, hope to see you again soon!"
 
 
